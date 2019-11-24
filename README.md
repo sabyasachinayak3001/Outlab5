@@ -17,17 +17,12 @@ The feature of conditional forms has been provided there, using which you can as
 
 Form Validation allows you to be specific about the responses required, for example:
   ->Numeric
-  
   ->EMail
-  
   ->.pdf extension
-  
   ->Alphanumeric
 
 For database details, you can go to db.sqlite3 and see relevant the tables.
 
 We have two tables:
-
-a) One with Form ID and User ID
-
-b) One with Form ID and Questions with all its information (Necessity, Visiblilty, Text, Type, Choice)
+  a) One with Form ID and User ID
+  b) One with Form ID and Questions with all its information (Necessity, Visiblilty, Text, Type, Choice)
